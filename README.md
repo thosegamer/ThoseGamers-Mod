@@ -7,6 +7,6 @@ Essential features such as registry synchronization and adding information to cr
 An advanced rendering mod designed for compatibility with optimization mods and graphics overhaul mods.
 
 Using ThoseGamer's Mod to play with thosegamer mods
-Make sure you have installed fabric loader first. More information about installing Fabric Loader can be found here.
+Make sure you have installed thosegamer loader first. More information about installing ThoseGamer Loader can be found here.
 
 The downloaded jar file should be placed in your mods folder.
