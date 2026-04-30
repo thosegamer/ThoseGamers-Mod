@@ -1,5 +1,4 @@
 # ThoseGamers-Mod
-Repository
 ThoseGamer's Mod is the library for essential hooks and interoperability mechanisms for ThoseGamer mods. Examples include:
 
 Exposing functionality that is useful but difficult to access for many mods such as particles, biomes and dimensions
